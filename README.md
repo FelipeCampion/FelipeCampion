@@ -1,10 +1,10 @@
 ### 📊 Junior Database Developer | IT Student
 
-Sou um entusiasta de dados focado em transformar informações brutas em inteligência de negócio. Atualmente, dedico meus estudos ao domínio de arquiteturas de bancos de dados relacionais, com ênfase em **MySQL** e **SQL Server**.
+Um cara interessado por dados focado em transformar informações brutas em inteligência de negócio. Atualmente, dedico meus estudos ao domínio de arquiteturas de bancos de dados relacionais, com ênfase em **MySQL** e **SQL Server**.
 
 ---
 
-## 🚀 O que eu desenvolvo:
+## O que eu desenvolvo:
 * **Arquitetura de Dados:** Modelagem relacional (DER/MER) com foco em normalização e integridade.
 * **Automação de Banco de Dados:** Implementação de Triggers, Stored Procedures e Views para otimização de processos.
 * **Inteligência IoT:** Estruturação de bancos para telemetria e monitoramento de sensores em tempo real.
@@ -12,7 +12,7 @@ Sou um entusiasta de dados focado em transformar informações brutas em intelig
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas:
+## Tecnologias e Ferramentas:
 <div>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
@@ -28,7 +28,5 @@ Sou um entusiasta de dados focado em transformar informações brutas em intelig
 
 ---
 
-## 📫 Vamos nos conectar?
+## Contato:
 * **Email:** felipeccampion@gmail.com
-
-*"Dados são o novo petróleo, mas a inteligência é a refinaria."*
