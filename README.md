@@ -30,6 +30,5 @@ Sou um entusiasta de dados focado em transformar informações brutas em intelig
 
 ## 📫 Vamos nos conectar?
 * **Email:** felipecampion@gmail.com
-* **LinkedIn:** [Felipe Campion](SEU_LINK_DO_LINKEDIN_AQUI)
 
 *"Dados são o novo petróleo, mas a inteligência é a refinaria."*
