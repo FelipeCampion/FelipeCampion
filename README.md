@@ -1,33 +1,36 @@
 ### 📊 Junior Database Developer | IT Student
 
-A data architect focused on transforming raw information into actionable business intelligence. Currently dedicated to mastering relational database architectures, with an emphasis on **MySQL** and **SQL Server**.
+Um cara interessado por dados focado em transformar informações brutas em inteligência de negócio. Atualmente, dedico meus estudos ao domínio de arquiteturas de bancos de dados relacionais, com ênfase em **MySQL** e **SQL Server**.
 
 ---
 
-## Technical Expertise:
-* **Data Architecture:** Relational modeling (ERD/MER) with a focus on normalization and data integrity.
-* **Database Automation:** Implementation of Triggers, Stored Procedures, and Views for process optimization.
-* **IoT Intelligence:** Database structuring for real-time telemetry and sensor monitoring.
-* **Business Logic:** Development of security constraints and inventory/financial logic directly within the SQL layer.
+## O que eu desenvolvo:
+* **Arquitetura de Dados:** Modelagem relacional (DER/MER) com foco em normalização e integridade.
+* **Automação de Banco de Dados:** Implementação de Triggers, Stored Procedures e Views para otimização de processos.
+* **Inteligência IoT:** Estruturação de bancos para telemetria e monitoramento de sensores em tempo real.
+* **Regras de Negócio:** Desenvolvimento de travas de segurança e lógica de estoque/financeira diretamente no SQL.
 
 ---
 
-## Technologies & Tools:
+## Tecnologias e Ferramentas:
 <div>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Design-44CC11?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-44CC11?style=for-the-badge" />
 </div>
 
 ---
 
-## 📂 Featured Projects:
-* **[Analise-Fazenda-IoT](https://github.com/FelipeCampion/Analise-Fazenda-IoT-):** Smart greenhouse monitoring with **Predictive Maintenance**. Features in-database logic to diagnose sensor health and trigger real-time telemetry alerts.
-* **[Sistema-Gestao-Biblioteca](https://github.com/FelipeCampion/Sistema-Gestao-Biblioteca):** Comprehensive library management with financial automation. Includes strict inventory control via Triggers and automated fine/return calculation systems.
-* **[Gestao-Hospitalar](https://github.com/FelipeCampion/Gestao-Hospitalar):** Critical mission system focused on **Patient Safety**. Utilizes Triggers to monitor clinical decline in real-time and performs SLA auditing for laboratory result turnaround times.
-
+## 📂 Projetos em Destaque:
+* **[Analise-Fazenda-IoT](https://github.com/FelipeCampion/Analise-Fazenda-IoT-):**  Monitoramento de estufas inteligentes com **Manutenção Preditiva**. Utiliza lógica de IA no banco de dados para diagnosticar a saúde dos sensores e disparar alertas de telemetria em tempo real.
+* **[Sistema-Gestao-Biblioteca](https://github.com/FelipeCampion/Sistema-Gestao-Biblioteca):**  Gestão completa de acervo com automação financeira. Controle rigoroso de estoque via Triggers e sistema automatizado de cálculo de multas e devoluções.
+* **[Gestao-Hospitalar](https://github.com/FelipeCampion/Gestao-Hospitalar):** Sistema focado em Segurança do Paciente. Utiliza automação via Triggers para monitorar o declínio clínico de pacientes em tempo real e realizar a auditoria de SLA (prazos) em resultados laboratoriais.
 ---
 
-## Contact:
+## Contato:
 * **Email:** felipeccampion@gmail.com
+
+
+traduza tudo para ingles 
+na minha visao, o texto original ser em ingles me da mais abrangencia e qualquer basileiro que queira pode traduzir a pagina
