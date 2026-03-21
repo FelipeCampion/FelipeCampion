@@ -30,7 +30,3 @@ Um cara interessado por dados focado em transformar informações brutas em inte
 
 ## Contato:
 * **Email:** felipeccampion@gmail.com
-
-
-traduza tudo para ingles 
-na minha visao, o texto original ser em ingles me da mais abrangencia e qualquer basileiro que queira pode traduzir a pagina
