@@ -1,6 +1,7 @@
 ### 📊 Junior Database Developer | IT Student
 
 Um cara interessado por dados focado em transformar informações brutas em inteligência de negócio. Atualmente, dedico meus estudos ao domínio de arquiteturas de bancos de dados relacionais, com ênfase em **MySQL** e **SQL Server**.
+
 Junior Database Developer focused on transforming raw data into business intelligence.
 
 ---
