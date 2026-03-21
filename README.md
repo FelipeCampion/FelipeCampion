@@ -25,7 +25,7 @@ Um cara interessado por dados focado em transformar informações brutas em inte
 ## 📂 Projetos em Destaque:
 * **[Analise-Fazenda-IoT](https://github.com/FelipeCampion/Analise-Fazenda-IoT-):**  Monitoramento de estufas inteligentes com **Manutenção Preditiva**. Utiliza lógica de IA no banco de dados para diagnosticar a saúde dos sensores e disparar alertas de telemetria em tempo real.
 * **[Sistema-Gestao-Biblioteca](https://github.com/FelipeCampion/Sistema-Gestao-Biblioteca):**  Gestão completa de acervo com automação financeira. Controle rigoroso de estoque via Triggers e sistema automatizado de cálculo de multas e devoluções.
-* **[Gestao-Hospitalar]([https://github.com/FelipeCampion/Sistema-Gestao-Biblioteca](https://github.com/FelipeCampion/Gestao-Hospitalar)):** Sistema focado em Segurança do Paciente. Utiliza automação via Triggers para monitorar o declínio clínico de pacientes em tempo real e realizar a auditoria de SLA (prazos) em resultados laboratoriais.
+* **[Gestao-Hospitalar]([https://github.com/FelipeCampion/Gestao-Hospitalar]):** Sistema focado em Segurança do Paciente. Utiliza automação via Triggers para monitorar o declínio clínico de pacientes em tempo real e realizar a auditoria de SLA (prazos) em resultados laboratoriais.
 ---
 
 ## Contato:
