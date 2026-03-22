@@ -31,4 +31,4 @@ Um cara interessado por dados focado em transformar informações brutas em inte
 
 ## Contato:
 * **Email:** felipeccampion@gmail.com
-* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-campion-1aa5702b0)
+* **LinkedIn:**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-campion-1aa5702b0)
