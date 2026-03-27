@@ -24,7 +24,7 @@ Um entusiasta de dados focado em transformar informações brutas em inteligênc
 
 ## 📂 Projetos em Destaque:
 
-* **[Lumière-Commerce](https://github.com/FelipeCampion/Lumiere-Commerce):** 🏺 Sistema de e-commerce de luxo com **integridade orientada a eventos**. Implementa travas de segurança que impedem avaliações falsas (validação via histórico de compra) e controle de estoque automatizado em tempo real.
+* **[Lumière-Commerce](https://github.com/FelipeCampion/Lumiere_Commerce):** 🏺 Sistema de e-commerce de luxo com **integridade orientada a eventos**. Implementa travas de segurança que impedem avaliações falsas (validação via histórico de compra) e controle de estoque automatizado em tempo real.
 * **[Analise-Fazenda-IoT](https://github.com/FelipeCampion/Analise-Fazenda-IoT-):** 🛰️ Monitoramento de estufas inteligentes com **Manutenção Preditiva**. Utiliza lógica no banco de dados para diagnosticar a saúde dos sensores e disparar alertas de telemetria.
 * **[Sistema-Gestao-Biblioteca](https://github.com/FelipeCampion/Sistema-Gestao-Biblioteca):** 📚 Gestão completa de acervo com automação financeira. Controle rigoroso de estoque e sistema automatizado de cálculo de multas/devoluções via Triggers.
 * **[Gestao-Hospitalar](https://github.com/FelipeCampion/Gestao-Hospitalar):** 🏥 Sistema focado em Segurança do Paciente. Automação via Triggers para monitorar declínio clínico e auditoria de SLA em resultados laboratoriais.
