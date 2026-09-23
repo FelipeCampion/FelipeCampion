@@ -1,14 +1,14 @@
-### 📊 Junior Database Developer | IT Student
+### 📊 Database & Backend Developer | Co-Founder @ Atlan
 
-Um entusiasta de dados focado em transformar informações brutas em inteligência de negócio. Atualmente, dedico meus estudos ao domínio de arquiteturas de bancos de dados relacionais (**SQL Server** e **MySQL**), explorando o poder da lógica *Server-Side* para criar sistemas autônomos e resilientes.
+Um desenvolvedor focado em arquitetura de software e engenharia de dados, transformando informações complexas em ecossistemas seguros e escaláveis. Atualmente cursando Análise e Desenvolvimento de Sistemas e atuando ativamente na construção de soluções robustas para infraestrutura relacional, segurança de bancos de dados e lógicas *Server-Side*.
 
 ---
 
 ## 🛠️ O que eu desenvolvo:
-* **Arquitetura de Dados:** Modelagem relacional (DER/MER) com foco em normalização, integridade e **escalabilidade**.
+* **Arquitetura & Segurança de Dados:** Modelagem relacional (DER/MER) com foco em integridade, escalabilidade e proteção de dados críticos em nível de motor (RDBMS).
+* **Desenvolvimento Backend:** Construção de servidores e APIs usando ecossistemas **Node.js** integrados a bancos de dados, desenhando desde infraestruturas robustas até arquiteturas locais eficientes e com zero custo de hospedagem.
 * **Sistemas Distribuídos:** Integração de múltiplos bancos de dados via **Synonyms**, garantindo segregação de domínios e interoperabilidade.
-* **Automação & Lógica Interna:** Implementação de Triggers, Stored Procedures e Views para garantir a consistência dos dados e a **automação de processos**.
-* **Performance & Auditoria:** Otimização via Índices estratégicos e criação de logs de auditoria automáticos diretamente no motor do banco.
+* **Automação & Lógica Interna:** Implementação de Triggers, Stored Procedures e Views para garantir consistência dos dados, aplicação de regras de negócio no servidor e automação de processos.
 
 ---
 
@@ -16,19 +16,20 @@ Um entusiasta de dados focado em transformar informações brutas em inteligênc
 <div>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Design-44CC11?style=for-the-badge" />
 </div>
 
 ---
 
 ## 📂 Projetos em Destaque:
 
-* **[MarketIntel](https://github.com/FelipeCampion/MarketIntel):** 🏗️ **(Destaque)** Ecossistema corporativo distribuído em **T-SQL**. Utiliza **5 bancos de dados independentes** (CRM, Produtos, Vendas, Pedidos e Financeiro) integrados via **Synonyms**. Implementa automação de baixa de estoque cross-database, cálculo de lucro em tempo real e fechamentos mensais de BI.
-* **[Sentinel-Stream](https://github.com/FelipeCampion/Sentinel_Stream):** 🛰️ Ecossistema de telemetria IoT escalável em **T-SQL**. Apresenta uma **Arquitetura Abstrata** que permite monitorar qualquer variável via metadados. Implementa automação de alertas, auditoria de hardware e índices de performance.
+* **[Atlan](#):** 🛡️ **(Destaque | Co-Founder)** Startup focada em segurança de banco de dados e sistemas de gestão relacional (RDBMS). Desenvolvimento central da arquitetura de dados, infraestrutura de segurança corporativa, documentação técnica e modelagem de serviços para garantir alta disponibilidade.
+* **[Sistema de Gestão Clínica (Full-Stack)](#):** 🩺 Aplicação gerencial em **Node.js** e **SQLite** projetada em arquitetura *Serverless Local*. Possui modelagem relacional completa (pacientes, faturamentos, anamneses, RNPF) rodando diretamente via sincronização em nuvem, garantindo segurança de dados de saúde e rotinas de backup sem custos de servidor.
+* **[MarketIntel](https://github.com/FelipeCampion/MarketIntel):** 🏗️ Ecossistema corporativo distribuído em **T-SQL**. Utiliza **5 bancos de dados independentes** (CRM, Produtos, Vendas, Pedidos e Financeiro) integrados via **Synonyms**. Implementa automação de baixa de estoque cross-database e fechamentos mensais de BI.
+* **[Sentinel-Stream](https://github.com/FelipeCampion/Sentinel_Stream):** 🛰️ Ecossistema de telemetria IoT escalável em **T-SQL**. Apresenta uma **Arquitetura Abstrata** que permite monitorar qualquer variável via metadados, com automação de alertas e auditoria de hardware.
 * **[Lumière-Commerce](https://github.com/FelipeCampion/Lumiere_Commerce):** 🏺 Sistema de e-commerce de luxo com **integridade orientada a eventos**. Implementa travas de segurança contra avaliações falsas e controle de estoque automatizado em tempo real.
-* **[Analise-Fazenda-IoT](https://github.com/FelipeCampion/Analise-Fazenda-IoT-):** 🌱 Monitoramento de estufas inteligentes com **Manutenção Preditiva**. Utiliza lógica interna para diagnosticar a saúde dos sensores e disparar alertas de telemetria.
-* **[Gestao-Hospitalar](https://github.com/FelipeCampion/Gestao-Hospitalar):** 🏥 Sistema focado em Segurança do Paciente com automação via Triggers para monitorar declínio clínico e auditoria de SLA laboratorial.
 
 ---
 
